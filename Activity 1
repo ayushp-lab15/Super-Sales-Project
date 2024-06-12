@@ -1,0 +1,31 @@
+                                                                         Data Preparation and Basic Report Making
+Section 1: Basic Formatting
+Increase Column Widths: Adjust the column widths to ensure all data is readable.
+Format Header Row: Apply a suitable color to the header row and add borders around the header cells for better visibility.
+
+Section 2: Filtering
+Filter by Customer Segment: Filter the dataset to isolate data for different customer segments.
+Create New Worksheets: Create four new worksheets, one for each customer segment. Copy the raw data for each segment into its respective worksheet.
+Focus on Corporate Segment: For this project, we will focus solely on the Corporate customer segment.
+
+Section 3: Report Making - I
+Freeze Header Row: Freeze the header row to keep it visible while scrolling.
+Delete/Hide Unwanted Columns: Identify and hide or delete any columns that are not relevant to the analysis.
+Round Off Sales and Profits: Round off the sales and profits to one decimal place for consistency.
+Format Sales and Profit: Format the sales and profit figures in US dollar units for clarity.
+Format Dates: Format the Order Date and Ship Date into a more readable format (e.g., 15-Jan-2012).
+
+Section 4: Report Making - II
+Sorting:
+Sort the data alphabetically by Region.
+Within each Region, sort alphabetically by Province.
+Within each Province, sort the data in decreasing order of sales.
+Conditional Formatting - I: Highlight the top 10% of orders by sales within each Region and Province using a light green fill and dark green border.
+Conditional Formatting - II: Apply a color scale to the profit column, with green representing higher profits and red representing higher losses.
+
+Section 5: Report Making - III
+Double Bottom Borders: Apply double bottom borders to demarcate each Region for better visual separation.
+Section 6 (Optional): Printing, Saving, and Exporting to PDF
+Page Layout Options: Experiment with different page layout options to fit the report into a minimum number of pages.
+Password Protection: Apply password protection to the worksheet for security.
+Save Printable Version: Save a printable version of the report.
